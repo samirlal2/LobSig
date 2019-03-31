@@ -7,9 +7,9 @@ Contact the corresponding authors for large data files .RData  Expression_CopyNu
 The github repository contains the following key scripts.
 
 Required R packages include
-genefu https://bioconductor.org/packages/release/bioc/html/genefu.html
-caret https://topepo.github.io/caret/
-matrixStats https://cran.rstudio.com/web/packages/matrixStats/index.html
+genefu https://bioconductor.org/packages/release/bioc/html/genefu.html \n
+caret https://topepo.github.io/caret/ \n
+matrixStats https://cran.rstudio.com/web/packages/matrixStats/index.html \n
 ROCR https://rocr.bioinf.mpi-sb.mpg.de/
 openxlsx https://cran.r-project.org/web/packages/openxlsx/
 GenomicRanges https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html

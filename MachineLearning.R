@@ -1,4 +1,5 @@
-
+# This code is used for the LobSig score calculation and classificaiton. 
+# Derived and code developed by Samir Lal
 # Change the following directory
 wkdir <- "/Users/samirlal/Desktop/renpjbreastcancernpjbcancer00372majorrevision/"
 
